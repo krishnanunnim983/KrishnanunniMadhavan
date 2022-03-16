@@ -1072,6 +1072,7 @@ info bar
   list-style-type: none;
   margin-bottom: 5px;
   color: #8c8c8e;
+  display:flex;
 }
 .art-info-bar .art-knowledge-list li:last-child {
   margin-bottom: 0;
