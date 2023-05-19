@@ -162,7 +162,7 @@ $(function() {
     }
   });
 
-  bar.animate(.65);
+  bar.animate(.80);
 
   var bar = new ProgressBar.Line(lineprog5, {
     strokeWidth: 1.72,
@@ -186,7 +186,7 @@ $(function() {
     easing: 'easeInOut',
     duration: 1400,
     delay: 3400,
-    trailWidth: 1.50,
+    trailWidth: 1.72,
     svgStyle: {
       width: '100%',
       height: '100%'
@@ -196,7 +196,7 @@ $(function() {
     }
   });
 
-  bar.animate(.80);
+  bar.animate(.60);
 
   // Contact form
   $('.art-input').keyup(function() {
