@@ -152,7 +152,7 @@ $(function() {
     easing: 'easeInOut',
     duration: 1400,
     delay: 3100,
-    trailWidth: 1.72,
+    trailWidth: 1.80,
     svgStyle: {
       width: '100%',
       height: '100%'
@@ -186,7 +186,7 @@ $(function() {
     easing: 'easeInOut',
     duration: 1400,
     delay: 3400,
-    trailWidth: 1.72,
+    trailWidth: 1.50,
     svgStyle: {
       width: '100%',
       height: '100%'
